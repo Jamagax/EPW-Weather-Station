@@ -1,9 +1,12 @@
 En este archivo van los componentes de la estación Meteorológica.
 
 Aire:
+  Termometro - Temperatura
+  Pironamómetro - Radiación Solar
 
 Tierra:
 
-Agua:
+Agua: Higrometro - Humedad ambiental
+      Sensor de Lluvia
 
-Viento:
+Viento: Anemometro
