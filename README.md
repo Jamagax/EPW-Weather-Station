@@ -1,6 +1,4 @@
-# Meteo Stat - EPW Weather Station
-
-[![N|Solid](https://pbs.twimg.com/profile_images/3768256796/e3b56e9a0e4ce260e7212c98315baef4_400x400.jpeg)](https://nodesource.com/products/nsolid)
+## Meteo Stat - EPW Weather Station
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
